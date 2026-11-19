@@ -70,12 +70,12 @@ In case the IETF Chair becomes indisposed, or the position becomes
 vacant through resignation, recall or otherwise, the IESG selects and
 announces another Area Director who is willing to serve as Acting IETF
 Chair, who then immediately assumes the role of the IETF Chair.
-The IETF Chair declares when they become indisposed and when they are
-available again. If the IETF Chair is unable or unwilling to do so, or
-if there is disagreement, the IESG decides. This does not affect the
-recall process in {{Section 7 of RFC8713}}. The Acting IETF Chair
+
+The Acting IETF Chair
 serves until the NomCom appoints a new IETF
-Chair or the IETF Chair is available again. The ability to serve as
+Chair or the IETF Chair is available again. 
+
+The ability to serve as
 Acting IETF Chair is not a criterion for the NomCom when selecting Area
 Directors.
 
@@ -85,9 +85,25 @@ section applies to them as it does to the IETF Chair. Delegations made
 by the IETF Chair remain in force unless the Acting IETF Chair changes
 them.
 
+The existence of an available Acting IETF Chair does not affect the
+recall process in {{Section 7 of RFC8713}}. 
+
+## IETF Chair self-Declaration
+
+The IETF Chair declares when they become indisposed and when they are
+available again. 
+
 If the IETF Chair's absence is expected to be short, the Acting IETF Chair
 should choose to delay controversial decisions until the IETF Chair is
 available again, while allowing other business to proceed.
+
+## IESG Declaration of incapacity
+
+If the IETF Chair is unable (due to incapacity, or unavailability) to self-declare, then the IESG may do so.
+
+If the IESG comes to a conclusion that the IETF Chair has been under performing, or too unavailable, then the IESG acts by starting the recall process.
+Once the recall process is started, the IESG may declare an Acting Chair until the recall process comes to a conclusion, or the nomcom appoints a replacement.
+
 
 # Security Considerations
 
